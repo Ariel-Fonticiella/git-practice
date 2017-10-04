@@ -3,11 +3,4 @@ Name: Ariel Fonticiella
 
 Age: 31
 
-Favorite Color: Blue
-=======
-Name: Ariel
-
-Age: 31
-
-Favorite Color: Blue
->>>>>>> 44245fc634e9a1848d9c44c14474734e843635fa
+Favorite Color: Blue Steel
