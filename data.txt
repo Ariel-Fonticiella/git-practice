@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-Name: Ariel Fonticiella
+Name: Ariel
 
 Age: 31
 
