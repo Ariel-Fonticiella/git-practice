@@ -2,4 +2,4 @@ Name: Ariel
 
 Age: 31
 
-Favorite Color: Bluish
+Favorite Color: Blue
